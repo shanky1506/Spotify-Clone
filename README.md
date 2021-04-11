@@ -1,6 +1,7 @@
 # Spotify-Clone
 
 
+created a Custom hook `useAuth` for Authentication
 
 ## Client
 ```shell
@@ -15,4 +16,12 @@ npm start
 cd server 
 npm install
 npm start
+```
+
+
+.env FORTMAT
+```
+CLIENT_SECRET=
+
+PORT=4000
 ```

@@ -10,7 +10,7 @@ const url =
   AUTH_URL +
   `?client_id=${CLIENT_ID}&response_type=code&scope=${encodeURIComponent(
     SCOPES
-  )}&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&state=${StateString}`;
+  )}&redirect_uri=${encodeURIComponent(REDIRECT_URI)}`;
 
 const Login = () => {
     console.log({url})
