@@ -1,7 +1,8 @@
 # Spotify-Clone
 
 
-created a Custom hook `useAuth` for Authentication
+created a Custom hook `useAuth` for Authentication 
+
 
 ## Client
 ```shell
@@ -27,5 +28,5 @@ CLIENT_SECRET=
 PORT=4000
 ```
 ## Screenshots 
-[search][assets/search.png]
-[lyrics][assets/lyrics.png]
+![search](./assets/search.png)
+![lyrics](assets/lyrics.png)
