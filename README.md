@@ -29,7 +29,7 @@ PORT=4000
 ```
 ## Screenshots 
 Searching the track 
-![search](assets/search.png)
+![search](assets/Search.png)
 
 Lyrics and player 
 ![lyrics](assets/lyrics.png)
