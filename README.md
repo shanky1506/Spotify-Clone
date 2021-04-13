@@ -28,5 +28,8 @@ CLIENT_SECRET=
 PORT=4000
 ```
 ## Screenshots 
-![search](./assets/search.png)
+Searching the track 
+![search](assets/search.png)
+
+Lyrics and player 
 ![lyrics](assets/lyrics.png)
