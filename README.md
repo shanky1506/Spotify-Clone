@@ -26,3 +26,6 @@ CLIENT_SECRET=
 
 PORT=4000
 ```
+## Screenshots 
+[search][assets/search.png]
+[lyrics][assets/lyrics.png]
