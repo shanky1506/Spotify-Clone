@@ -19,7 +19,8 @@ npm start
 ```
 
 
-.env FORTMAT
+SERVER .env FORTMAT
+
 ```
 CLIENT_SECRET=
 
